@@ -1,1 +1,1 @@
-echo "SERVER_IS_ALIVE"
+curl -s https://google.com
