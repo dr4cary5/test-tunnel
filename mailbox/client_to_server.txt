@@ -1,1 +1,1 @@
-curl -s -L 'http://connectivitycheck.gstatic.com/generate_204'
+curl -s -L 'http://fa.wikipedia.org/'
