@@ -1,1 +1,1 @@
-waiting
+curl -s -L 'http://ifconfig.me/'
