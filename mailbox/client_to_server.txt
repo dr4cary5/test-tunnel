@@ -1,1 +1,1 @@
-waiting
+curl -s -L -k -H 'User-Agent: Mozilla/5.0' 'https://web.telegram.org/k/'
