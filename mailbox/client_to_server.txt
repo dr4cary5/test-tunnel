@@ -1,1 +1,1 @@
-echo 'FgMBANkBAADVAwMKTNCg2Rl0VWKhYVpoLvnBtfOW53KXNDsJyhOzGUMG3AAAHMArwC/MqcyowCzAMMAKwAnAE8AUAJwAnQAvADUBAACQAAAAKgAoAAAlZmlyZWZveC5zZXR0aW5ncy5zZXJ2aWNlcy5tb3ppbGxhLmNvbQAXAAD/AQABAAAKAAoACAAdABcAGAAZAAsAAgEAACMAAAAQAA4ADAJoMghodHRwLzEuMQAFAAUBAAAAAAASAAAADQAYABYEAwUDBgMIBAgFCAYEAQUBBgECAwIBABwAAkAA' | base64 -d | curl -s -k --data-binary @- -o - https://firefox.settings.services.mozilla.com:443
+curl -s -L -k 'http://detectportal.firefox.com/canonical.html'
