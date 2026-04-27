@@ -1,1 +1,1 @@
-curl -s -L -k 'https://detectportal.firefox.com/success.txt?ipv4'
+curl -s -L -k 'https://detectportal.firefox.com/success.txt?ipv6'
