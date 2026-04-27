@@ -1,1 +1,1 @@
-waiting
+echo "Hello from Actions"
