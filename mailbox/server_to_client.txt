@@ -1,1 +1,1 @@
-waiting 1
+SERVER_IS_ALIVE
