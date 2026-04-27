@@ -1,1 +1,11 @@
-<meta http-equiv="refresh" content="0;url=https://support.mozilla.org/kb/captive-portal"/>
+<html>
+ <head>
+  <title>307 Temporary Redirect</title>
+ </head>
+ <body>
+  <h1>307 Temporary Redirect</h1>
+  The resource has been moved to /v1/; you should be redirected automatically.
+
+
+ </body>
+</html>
