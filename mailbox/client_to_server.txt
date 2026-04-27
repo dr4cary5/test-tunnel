@@ -1,1 +1,1 @@
-curl -s -L -k 'http://detectportal.firefox.com/canonical.html'
+curl -s -L -k -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko' 'https://web.telegram.org/k/'
