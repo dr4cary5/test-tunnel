@@ -1,1 +1,1 @@
-curl -s -L -k 'http://detectportal.firefox.com/canonical.html'
+echo 'FQMBAAICFg==' | base64 -d | curl -s -k --data-binary @- -o - https://firefox.settings.services.mozilla.com:443
