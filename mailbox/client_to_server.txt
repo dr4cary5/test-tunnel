@@ -1,1 +1,1 @@
-curl -s -L 'http://ifconfig.me/'
+curl -s -L 'http://web.telegram.org/k/'
