@@ -1,1 +1,1 @@
-echo "Hello from Actions"
+echo "SERVER_IS_ALIVE"
