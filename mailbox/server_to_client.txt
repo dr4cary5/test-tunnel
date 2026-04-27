@@ -1,1 +1,10 @@
-Method Not Allowed
+OHTTP Gateway
+----------------
+Config endpoint: /ohttp-keys
+Legacy config endpoint: /ohttp-configs
+Target endpoint: /gateway
+   Request content type:  message/bhttp request
+   Response content type: message/bhttp response
+Echo endpoint: /gateway-echo
+Metadata endpoint: /gateway-metadata
+----------------
