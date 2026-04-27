@@ -1,10 +1,1 @@
-OHTTP Gateway
-----------------
-Config endpoint: /ohttp-keys
-Legacy config endpoint: /ohttp-configs
-Target endpoint: /gateway
-   Request content type:  message/bhttp request
-   Response content type: message/bhttp response
-Echo endpoint: /gateway-echo
-Metadata endpoint: /gateway-metadata
-----------------
+<meta http-equiv="refresh" content="0;url=https://support.mozilla.org/kb/captive-portal"/>
