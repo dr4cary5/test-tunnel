@@ -1,497 +1,181 @@
 <!DOCTYPE html>
-<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-disabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-not-available skin-theme-clientpref-thumb-standard" lang="fa" dir="rtl">
-<head>
-<meta charset="UTF-8">
-<title>ویکی‌پدیا، دانشنامهٔ آزاد</title>
-<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-disabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-not-available skin-theme-clientpref-thumb-standard";var cookie=document.cookie.match(/(?:^|; )fawikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[".\t,","٫\t٬"],"wgDigitTransformTable":["0\t1\t2\t3\t4\t5\t6\t7\t8\t9\t%","۰\t۱\t۲\t۳\t۴\t۵\t۶\t۷\t۸\t۹\t٪"],"wgDefaultDateFormat":"dmy","wgMonthNames":["","ژانویه","فوریه","مارس","آوریل","مه","ژوئن","ژوئیه","اوت","سپتامبر","اکتبر","نوامبر","دسامبر"],"wgRequestId":"cf5435de-24d1-4410-a85d-810506fd79bd","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"صفحهٔ_اصلی","wgTitle":"صفحهٔ اصلی","wgCurRevisionId":43534175,"wgRevisionId":43534175,"wgArticleId":2,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageViewLanguage":"fa","wgPageContentLanguage":"fa","wgPageContentModel":"wikitext","wgRelevantPageName":"صفحهٔ_اصلی","wgRelevantArticleId":2,"wgTempUserName":null,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":["sysop"],"wgRestrictionMove":["sysop"],"wgIsMainPage":true,"wgNoticeProject":"wikipedia","wgCiteReferencePreviewsActive":true,"wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgConfirmEditCaptchaNeededForGenericEdit":"hcaptcha","wgConfirmEditHCaptchaVisualEditorOnLoadIntegrationEnabled":false,"wgConfirmEditHCaptchaSiteKey":"5d0c670e-a5f4-4258-ad16-1f42792c9c62","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":0,"wgVisualEditor":{"pageLanguageCode":"fa","pageLanguageDir":"rtl","pageVariantFallbacks":"fa"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":true,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":6000,"wgParsoidHtmlVersion":"2.8.0","parsermigration-parsoid":true,"wgEditSubmitButtonLabelPublish":true,"wgVisualEditorPageIsDisambiguation":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q5296","wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGESuggestedEditsTaskTypes":{"taskTypes":["copyedit","link-recommendation"],"unavailableTaskTypes":[]},"wgGETopicsMatchModeEnabled":true,"wgGELevelingUpEnabledForUser":false,"wgTestKitchenUserExperiments":{"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[]}};
-RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","mediawiki.skinning.content.parsoid":"ready","ext.wikimediamessages.styles":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","mediawiki.ui.button":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready"};RLPAGEMODULES=["site","mediawiki.page.ready","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.Edittools","ext.gadget.EasyNewSection","ext.gadget.signit","ext.gadget.decodesummary","ext.gadget.Watchlist","ext.gadget.switcher","ext.gadget.refToolbar","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","wikibase.client.vector-2022","wikibase.databox.fromWikidata","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession","ext.testKitchen"];</script>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
-}];});});</script>
-<link rel="stylesheet" href="/w/load.php?lang=fa&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediamessages.styles%7Cmediawiki.skinning.content.parsoid%7Cmediawiki.ui.button%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles&amp;only=styles&amp;skin=vector-2022">
-<script async="" src="/w/load.php?lang=fa&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
-<meta name="ResourceLoaderDynamicStyles" content="">
-<link rel="stylesheet" href="/w/load.php?lang=fa&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
-<meta name="generator" content="MediaWiki 1.46.0-wmf.24">
-<meta name="referrer" content="origin">
-<meta name="referrer" content="origin-when-cross-origin">
-<meta name="robots" content="max-image-preview:standard">
-<meta name="format-detection" content="telephone=no">
-<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Wikipedia_Greeting.svg/1280px-Wikipedia_Greeting.svg.png">
-<meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="462">
-<meta name="viewport" content="width=1120">
-<meta property="og:title" content="ویکی‌پدیا، دانشنامهٔ آزاد">
-<meta property="og:type" content="website">
-<link rel="preconnect" href="//upload.wikimedia.org">
-<link rel="alternate" type="application/atom+xml" title="خوراک نگارهٔ برگزیدهٔ روز ویکی‌پدیا" href="/w/api.php?action=featuredfeed&amp;feed=potd&amp;feedformat=atom">
-<link rel="alternate" type="application/atom+xml" title="خوراک مقاله‌های برگزیدهٔ ویکی‌پدیا" href="/w/api.php?action=featuredfeed&amp;feed=featured&amp;feedformat=atom">
-<link rel="alternate" type="application/atom+xml" title="خوراک «یادبودها» ویکی‌پدیا" href="/w/api.php?action=featuredfeed&amp;feed=onthisday&amp;feedformat=atom">
-<link rel="alternate" type="application/atom+xml" title="خوراک «آیا می‌دانستید که …؟» ویکی‌پدیا" href="/w/api.php?action=featuredfeed&amp;feed=dyk&amp;feedformat=atom">
-<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
-<link rel="icon" href="/static/favicon/wikipedia.ico">
-<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="ویکی‌پدیا (fa)">
-<link rel="EditURI" type="application/rsd+xml" href="//fa.wikipedia.org/w/api.php?action=rsd">
-<link rel="canonical" href="https://fa.wikipedia.org/wiki/%D8%B5%D9%81%D8%AD%D9%87%D9%94_%D8%A7%D8%B5%D9%84%DB%8C">
-<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.fa">
-<link rel="alternate" type="application/atom+xml" title="خوراک اتم برای ویکی‌پدیا" href="/w/index.php?title=%D9%88%DB%8C%DA%98%D9%87:%D8%AA%D8%BA%DB%8C%DB%8C%D8%B1%D8%A7%D8%AA_%D8%A7%D8%AE%DB%8C%D8%B1&amp;feed=atom">
-<link rel="dns-prefetch" href="//meta.wikimedia.org" />
-<link rel="dns-prefetch" href="auth.wikimedia.org">
-</head>
-<body class="skin--responsive skin-vector skin-vector-search-vue mediawiki rtl sitedir-rtl mw-hide-empty-elt ns-0 ns-subject page-صفحهٔ_اصلی page-Main_Page rootpage-صفحهٔ_اصلی skin-vector-2022 action-view">
-<div id="mw-aria-live-region" class="mw-aria-live-region" aria-live="polite"></div><a class="mw-jump-link" href="#bodyContent">پرش به محتوا</a>
-<div class="vector-header-container">
-	<header class="vector-header mw-header no-font-mode-scale">
-		<div class="vector-header-start">
-			<nav class="vector-main-menu-landmark" aria-label="وبگاه">
-				
-<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  title="منوی اصلی" >
-	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="منوی اصلی"  >
-	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Telegram Web</title>
+    <meta name="description" content="Telegram is a cloud-based mobile and desktop messaging app with a focus on security and speed.">
+    <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no,shrink-to-fit=no,viewport-fit=cover"> 
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="mobile-web-app-title" content="Telegram Web">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-title" content="Telegram Web">
+    <meta name="application-name" content="Telegram Web">
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="msapplication-TileImage" content="assets/img/mstile-144x144.png?v=jw3mK7G9Ry">
+    <meta name="msapplication-config" content="browserconfig.xml?v=jw3mK7G9Ry">
+    <meta name="theme-color" content="#ffffff">
+    <meta name="color-scheme" content="light">
+    <meta name="google" content="notranslate">
+    <!-- <meta name="robots" content="noindex"> -->
 
-<span class="vector-dropdown-label-text">منوی اصلی</span>
-	</label>
-	<div class="vector-dropdown-content">
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://web.telegram.org/k/">
+    <meta property="og:title" content="Telegram Web">
+    <meta property="og:description" content="Telegram is a cloud-based mobile and desktop messaging app with a focus on security and speed.">
+    <meta property="og:image" content="assets/img/android-chrome-192x192.png?v=jw3mK7G9Ry">
 
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://web.telegram.org/k/">
+    <meta property="twitter:title" content="Telegram Web">
+    <meta property="twitter:description" content="Telegram is a cloud-based mobile and desktop messaging app with a focus on security and speed.">
+    <meta property="twitter:image" content="assets/img/android-chrome-192x192.png?v=jw3mK7G9Ry">
 
-				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
-		
-<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
-	<div
-	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
-	data-feature-name="main-menu-pinned"
-	data-pinnable-element-id="vector-main-menu"
-	data-pinned-container-id="vector-main-menu-pinned-container"
-	data-unpinned-container-id="vector-main-menu-unpinned-container"
->
-	<div class="vector-pinnable-header-label">منوی اصلی</div>
-	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">انتقال به نوار کناری</button>
-	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">نهفتن</button>
-</div>
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/img/apple-touch-icon.png?v=jw3mK7G9Ry">
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/img/favicon-16x16.png?v=jw3mK7G9Ry">
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/img/favicon-32x32.png?v=jw3mK7G9Ry">
+    <link rel="icon" type="image/png" sizes="192x192" href="assets/img/android-chrome-192x192.png?v=jw3mK7G9Ry">
+    <link rel="alternate icon" href="assets/img/favicon.ico?v=jw3mK7G9Ry" type="image/x-icon">
+    <!-- <link rel="mask-icon" href="assets/img/logo_filled.svg?v=jw3mK7G9Ry" color="#3390ec"> -->
+    <link rel="canonical" href="https://web.telegram.org/">
 
-	
-<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
-	<div class="vector-menu-heading">
-		بازدید محتوا
-	</div>
-	<div class="vector-menu-content">
-		
-		<ul class="vector-menu-content-list">
-			
-			<li id="n-mainpage" class="mw-list-item"><a href="/wiki/%D8%B5%D9%81%D8%AD%D9%87%D9%94_%D8%A7%D8%B5%D9%84%DB%8C" title="مشاهدهٔ صفحهٔ اصلی [z]" accesskey="z"><span>صفحهٔ اصلی</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/%D8%AF%D8%B1%DA%AF%D8%A7%D9%87:%D8%B1%D9%88%DB%8C%D8%AF%D8%A7%D8%AF%D9%87%D8%A7%DB%8C_%DA%A9%D9%86%D9%88%D9%86%DB%8C" title="یافتن اطلاعات پس‌زمینه پیرامون رویدادهای کنونی"><span>رویدادهای کنونی</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%D9%88%DB%8C%DA%98%D9%87:%D8%B5%D9%81%D8%AD%D9%87%D9%94_%D8%AA%D8%B5%D8%A7%D8%AF%D9%81%DB%8C" title="آوردن یک صفحهٔ تصادفی [x]" accesskey="x"><span>مقالهٔ تصادفی</span></a></li>
-		</ul>
-		
-	</div>
-</div>
-
-	
-<div id="p-collaboration" class="vector-menu mw-portlet mw-portlet-collaboration"  >
-	<div class="vector-menu-heading">
-		همکاری
-	</div>
-	<div class="vector-menu-content">
-		
-		<ul class="vector-menu-content-list">
-			
-			<li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D9%88%DB%8C%DA%98%D9%87:%D8%AA%D8%BA%DB%8C%DB%8C%D8%B1%D8%A7%D8%AA_%D8%A7%D8%AE%DB%8C%D8%B1" title="فهرستی از تغییرات اخیر ویکی [r]" accesskey="r"><span>تغییرات اخیر</span></a></li><li id="n-cooperateing" class="mw-list-item"><a href="/wiki/%D8%B1%D8%A7%D9%87%D9%86%D9%85%D8%A7:%D9%87%D9%85%DA%A9%D8%A7%D8%B1%DB%8C"><span>ویکی‌نویس شوید!</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/%D8%B1%D8%A7%D9%87%D9%86%D9%85%D8%A7:%D9%81%D9%87%D8%B1%D8%B3%D8%AA" title="مکانی برای دریافتن"><span>راهنما</span></a></li><li id="n-contact" class="mw-list-item"><a href="//fa.wikipedia.org/wiki/%D9%88%DB%8C%DA%A9%DB%8C%E2%80%8C%D9%BE%D8%AF%DB%8C%D8%A7:%D8%AA%D9%85%D8%A7%D8%B3_%D8%A8%D8%A7_%D9%85%D8%A7"><span>تماس با ویکی‌پدیا</span></a></li><li id="n-specialpages" class="mw-list-item"><a href="/wiki/%D9%88%DB%8C%DA%98%D9%87:%D8%B5%D9%81%D8%AD%D9%87%E2%80%8C%D9%87%D8%A7%DB%8C_%D9%88%DB%8C%DA%98%D9%87" title="فهرستی از همهٔ صفحه‌های ویژه [q]" accesskey="q"><span>صفحه‌های ویژه</span></a></li>
-		</ul>
-		
-	</div>
-</div>
-
-</div>
-
-				</div>
-
-	</div>
-</div>
-
-		</nav>
-			
-<a href="/wiki/%D8%B5%D9%81%D8%AD%D9%87%D9%94_%D8%A7%D8%B5%D9%84%DB%8C" class="mw-logo">
-	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
-	<span class="mw-logo-container skin-invert">
-		<img class="mw-logo-wordmark" alt="ویکی‌پدیا" src="/static/images/mobile/copyright/wikipedia-wordmark-fa.svg" style="width: 6em; height: 2em;">
-		<img class="mw-logo-tagline" alt="دانشنامهٔ آزاد" src="/static/images/mobile/copyright/wikipedia-tagline-fa.svg" width="72" height="18" style="width: 4.5em; height: 1.125em;">
-	</span>
-</a>
-
-		</div>
-		<div class="vector-header-end">
-			
-<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
-	<a href="/wiki/%D9%88%DB%8C%DA%98%D9%87:%D8%AC%D8%B3%D8%AA%D8%AC%D9%88" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" title="جستجو در ویکی‌پدیا [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
-
-<span>جستجو</span>
-	</a>
-	<div class="vector-typeahead-search-container">
-		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
-			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
-				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
-					<div class="cdx-text-input cdx-text-input--has-start-icon">
-						<input
-							class="cdx-text-input__input mw-searchInput" autocomplete="off"
-							 type="search" name="search" placeholder="جستجو در ویکی‌پدیا" aria-label="جستجو در ویکی‌پدیا" autocapitalize="none" spellcheck="false" title="جستجو در ویکی‌پدیا [f]" accesskey="f" id="searchInput"
-							>
-						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
-					</div>
-					<input type="hidden" name="title" value="ویژه:جستجو">
-				</div>
-				<button class="cdx-button cdx-search-input__end-button">جستجو</button>
-			</form>
-		</div>
-	</div>
-</div>
-
-			<nav class="vector-user-links vector-user-links-wide" aria-label="ابزارهای شخصی">
-	<div class="vector-user-links-main">
-	
-<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"  >
-	<div class="vector-menu-content">
-		
-		<ul class="vector-menu-content-list">
-			
-			
-		</ul>
-		
-	</div>
-</div>
-
-	
-<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"  >
-	<div class="vector-menu-content">
-		
-		<ul class="vector-menu-content-list">
-			
-			
-		</ul>
-		
-	</div>
-</div>
-
-	<nav class="vector-appearance-landmark" aria-label="ظاهر">
-		
-<div id="vector-appearance-dropdown" class="vector-dropdown "  title="تغییر ظاهر اندازهٔ قلم، عرض و رنگ صفحه" >
-	<input type="checkbox" id="vector-appearance-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-appearance-dropdown" class="vector-dropdown-checkbox "  aria-label="ظاهر"  >
-	<label id="vector-appearance-dropdown-label" for="vector-appearance-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-appearance mw-ui-icon-wikimedia-appearance"></span>
-
-<span class="vector-dropdown-label-text">ظاهر</span>
-	</label>
-	<div class="vector-dropdown-content">
-
-
-			<div id="vector-appearance-unpinned-container" class="vector-unpinned-container">
-				
-			</div>
-		
-	</div>
-</div>
-
-	</nav>
-	
-<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"  >
-	<div class="vector-menu-content">
-		
-		<ul class="vector-menu-content-list">
-			
-			
-		</ul>
-		
-	</div>
-</div>
-
-	
-<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"  >
-	<div class="vector-menu-content">
-		
-		<ul class="vector-menu-content-list">
-			<li id="pt-sitesupport-2" class="mw-list-item user-links-collapsible-item"><a data-mw-interface  href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=fa.wikipedia.org&amp;uselang=fa" class=" cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet"><span class="vector-icon mw-ui-icon-heart mw-ui-icon-wikimedia-heart"></span>
-
-<span>کمک مالی</span></a>
-</li>
-<li id="pt-createaccount-2" class="mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=%D9%88%DB%8C%DA%98%D9%87:%D8%A7%DB%8C%D8%AC%D8%A7%D8%AF_%D8%AD%D8%B3%D8%A7%D8%A8_%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%DB%8C&amp;returnto=%D8%B5%D9%81%D8%AD%D9%87%D9%94+%D8%A7%D8%B5%D9%84%DB%8C" title="از شما دعوت می‌شود که یک حساب ایجاد کنید و وارد شوید؛ هرچند که این کار اختیاری است." class=""><span>ساخت حساب</span></a>
-</li>
-<li id="pt-login-2" class="mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=%D9%88%DB%8C%DA%98%D9%87:%D9%88%D8%B1%D9%88%D8%AF_%D8%A8%D9%87_%D8%B3%D8%A7%D9%85%D8%A7%D9%86%D9%87&amp;returnto=%D8%B5%D9%81%D8%AD%D9%87%D9%94+%D8%A7%D8%B5%D9%84%DB%8C" title="توصیه می‌شود که به سامانه وارد شوید، گرچه اجباری نیست [o]" accesskey="o" class=""><span>ورود</span></a>
-</li>
-
-			
-		</ul>
-		
-	</div>
-</div>
-
-	</div>
-	
-<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out user-links-collapsible-item"  title="گزینه‌های بیشتر" >
-	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="ابزارهای شخصی"  >
-	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
-
-<span class="vector-dropdown-label-text">ابزارهای شخصی</span>
-	</label>
-	<div class="vector-dropdown-content">
-
-
-		
-<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  >
-	<div class="vector-menu-content">
-		
-		<ul class="vector-menu-content-list">
-			<li id="pt-sitesupport" class="mw-list-item user-links-collapsible-item"><a data-mw-interface  href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=fa.wikipedia.org&amp;uselang=fa" class=""><span class="vector-icon mw-ui-icon-heart mw-ui-icon-wikimedia-heart"></span>
-
-<span>کمک مالی</span></a>
-</li>
-<li id="pt-createaccount" class="mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=%D9%88%DB%8C%DA%98%D9%87:%D8%A7%DB%8C%D8%AC%D8%A7%D8%AF_%D8%AD%D8%B3%D8%A7%D8%A8_%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%DB%8C&amp;returnto=%D8%B5%D9%81%D8%AD%D9%87%D9%94+%D8%A7%D8%B5%D9%84%DB%8C" title="از شما دعوت می‌شود که یک حساب ایجاد کنید و وارد شوید؛ هرچند که این کار اختیاری است." class=""><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span>
-
-<span>ساخت حساب</span></a>
-</li>
-<li id="pt-login" class="mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=%D9%88%DB%8C%DA%98%D9%87:%D9%88%D8%B1%D9%88%D8%AF_%D8%A8%D9%87_%D8%B3%D8%A7%D9%85%D8%A7%D9%86%D9%87&amp;returnto=%D8%B5%D9%81%D8%AD%D9%87%D9%94+%D8%A7%D8%B5%D9%84%DB%8C" title="توصیه می‌شود که به سامانه وارد شوید، گرچه اجباری نیست [o]" accesskey="o" class=""><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span>
-
-<span>ورود</span></a>
-</li>
-
-			
-		</ul>
-		
-	</div>
-</div>
-
-	
-	</div>
-</div>
-
-</nav>
-
-		</div>
-	</header>
-</div>
-<div class="mw-page-container">
-	<div class="mw-page-container-inner">
-		<div class="vector-sitenotice-container">
-			<div id="siteNotice"><!-- CentralNotice --></div>
-		</div>
-		<div class="vector-column-start">
-			<div class="vector-main-menu-container">
-		<div id="mw-navigation">
-			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="وبگاه">
-				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
-				
-				</div>
-		</nav>
-		</div>
-	</div>
-</div>
-		<div class="mw-content-container">
-			<main id="content" class="mw-body">
-				<header class="mw-body-header vector-page-titlebar vector-page-titlebar-blank no-font-mode-scale">
-					<h1 id="firstHeading" class="firstHeading mw-first-heading" style="display: none"><span lang="fa" dir="rtl"><span class="mw-page-title-main">صفحهٔ اصلی</span></span></h1>
-						<div class="mw-indicators">
-		</div>
-</header>
-				<div class="vector-page-toolbar vector-feature-custom-font-size-clientpref--excluded">
-					<div class="vector-page-toolbar-container">
-						<div id="left-navigation">
-							<nav aria-label="فضاهای نام">
-								
-<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
-	<div class="vector-menu-content">
-		
-		<ul class="vector-menu-content-list">
-			
-			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%D8%B5%D9%81%D8%AD%D9%87%D9%94_%D8%A7%D8%B5%D9%84%DB%8C" title="دیدن صفحهٔ محتویات [c]" accesskey="c"><span>صفحهٔ اصلی</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/%D8%A8%D8%AD%D8%AB:%D8%B5%D9%81%D8%AD%D9%87%D9%94_%D8%A7%D8%B5%D9%84%DB%8C" rel="discussion" title="گفتگو پیرامون محتوای صفحه [t]" accesskey="t"><span>بحث</span></a></li>
-		</ul>
-		
-	</div>
-</div>
-
-								
-<div id="vector-variants-dropdown" class="vector-dropdown emptyPortlet"  >
-	<input type="checkbox" id="vector-variants-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-variants-dropdown" class="vector-dropdown-checkbox " aria-label="تغییر گونهٔ زبان"   >
-	<label id="vector-variants-dropdown-label" for="vector-variants-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">فارسی</span>
-	</label>
-	<div class="vector-dropdown-content">
-
-
-					
-<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
-	<div class="vector-menu-content">
-		
-		<ul class="vector-menu-content-list">
-			
-			
-		</ul>
-		
-	</div>
-</div>
-
-				
-	</div>
-</div>
-
-							</nav>
-						</div>
-						<div id="right-navigation" class="vector-collapsible">
-							<nav aria-label="بازدیدها">
-								
-<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
-	<div class="vector-menu-content">
-		
-		<ul class="vector-menu-content-list">
-			
-			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%D8%B5%D9%81%D8%AD%D9%87%D9%94_%D8%A7%D8%B5%D9%84%DB%8C"><span>خواندن</span></a></li><li id="ca-viewsource" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D8%B5%D9%81%D8%AD%D9%87%D9%94_%D8%A7%D8%B5%D9%84%DB%8C&amp;action=edit" title="این صفحه محافظت‌شده است.&#10;می‌توانید متن مبدأ آن را ببینید [e]" accesskey="e"><span>نمایش مبدأ</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D8%B5%D9%81%D8%AD%D9%87%D9%94_%D8%A7%D8%B5%D9%84%DB%8C&amp;action=history" title="نسخه‌های پیشین این صفحه [h]" accesskey="h"><span>نمایش تاریخچه</span></a></li>
-		</ul>
-		
-	</div>
-</div>
-
-							</nav>
-				
-							<nav class="vector-page-tools-landmark" aria-label="ابزارهای صفحه">
-								
-<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
-	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="ابزارها"  >
-	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">ابزارها</span>
-	</label>
-	<div class="vector-dropdown-content">
-
-
-									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
-						
-<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
-	<div
-	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
-	data-feature-name="page-tools-pinned"
-	data-pinnable-element-id="vector-page-tools"
-	data-pinned-container-id="vector-page-tools-pinned-container"
-	data-unpinned-container-id="vector-page-tools-unpinned-container"
->
-	<div class="vector-pinnable-header-label">ابزارها</div>
-	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">انتقال به نوار کناری</button>
-	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">نهفتن</button>
-</div>
-
-	
-<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="گزینه‌های بیشتر" >
-	<div class="vector-menu-heading">
-		کنش‌ها
-	</div>
-	<div class="vector-menu-content">
-		
-		<ul class="vector-menu-content-list">
-			
-			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/%D8%B5%D9%81%D8%AD%D9%87%D9%94_%D8%A7%D8%B5%D9%84%DB%8C"><span>خواندن</span></a></li><li id="ca-more-viewsource" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%D8%B5%D9%81%D8%AD%D9%87%D9%94_%D8%A7%D8%B5%D9%84%DB%8C&amp;action=edit"><span>نمایش مبدأ</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%D8%B5%D9%81%D8%AD%D9%87%D9%94_%D8%A7%D8%B5%D9%84%DB%8C&amp;action=history"><span>نمایش تاریخچه</span></a></li>
-		</ul>
-		
-	</div>
-</div>
-
-<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
-	<div class="vector-menu-heading">
-		عمومی
-	</div>
-	<div class="vector-menu-content">
-		
-		<ul class="vector-menu-content-list">
-			
-			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D9%88%DB%8C%DA%98%D9%87:%D9%BE%DB%8C%D9%88%D9%86%D8%AF_%D8%A8%D9%87_%D8%A7%DB%8C%D9%86_%D8%B5%D9%81%D8%AD%D9%87/%D8%B5%D9%81%D8%AD%D9%87%D9%94_%D8%A7%D8%B5%D9%84%DB%8C" title="فهرست همهٔ صفحه‌هایی که به این صفحه پیوند می‌دهند [j]" accesskey="j"><span>پیوندها به این صفحه</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D9%88%DB%8C%DA%98%D9%87:%D8%AA%D8%BA%DB%8C%DB%8C%D8%B1%D8%A7%D8%AA_%D9%85%D8%B1%D8%AA%D8%A8%D8%B7/%D8%B5%D9%81%D8%AD%D9%87%D9%94_%D8%A7%D8%B5%D9%84%DB%8C" rel="nofollow" title="تغییرات اخیر صفحه‌هایی که این صفحه به آن‌ها پیوند دارد [k]" accesskey="k"><span>تغییرات مرتبط</span></a></li><li id="t-upload" class="mw-list-item"><a href="//fa.wikipedia.org/wiki/ویکی‌پدیا:بارگذاری" title="بارگذاری تصاویر و پرونده‌های دیگر [u]" accesskey="u"><span>بارگذاری پرونده</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%D8%B5%D9%81%D8%AD%D9%87%D9%94_%D8%A7%D8%B5%D9%84%DB%8C&amp;oldid=43534175" title="پیوند پایدار به این نسخه از این صفحه"><span>پیوند پایدار</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%D8%B5%D9%81%D8%AD%D9%87%D9%94_%D8%A7%D8%B5%D9%84%DB%8C&amp;action=info" title="اطلاعات بیشتر دربارهٔ این صفحه"><span>اطلاعات صفحه</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D9%88%DB%8C%DA%98%D9%87:%DB%8C%D8%A7%D8%AF%DA%A9%D8%B1%D8%AF&amp;page=%D8%B5%D9%81%D8%AD%D9%87%D9%94_%D8%A7%D8%B5%D9%84%DB%8C&amp;id=43534175&amp;wpFormIdentifier=titleform" title="اطلاعات در خصوص چگونگی یادکرد این صفحه"><span>یادکرد این صفحه</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=%D9%88%DB%8C%DA%98%D9%87:UrlShortener&amp;url=https%3A%2F%2Ffa.wikipedia.org%2Fwiki%2F%25D8%25B5%25D9%2581%25D8%25AD%25D9%2587%25D9%2594_%25D8%25A7%25D8%25B5%25D9%2584%25DB%258C"><span>دریافت نشانی کوتاه‌شده</span></a></li><li class="mw-list-item"><a href="/w/index.php?title=%D8%B5%D9%81%D8%AD%D9%87%D9%94_%D8%A7%D8%B5%D9%84%DB%8C&amp;useparsoid=0"><span>استفاده از تجزیه‌گر قدیمی</span></a></li>
-		</ul>
-		
-	</div>
-</div>
-
-<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
-	<div class="vector-menu-heading">
-		نسخه‌برداری
-	</div>
-	<div class="vector-menu-content">
-		
-		<ul class="vector-menu-content-list">
-			
-			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=%D9%88%DB%8C%DA%98%D9%87:DownloadAsPdf&amp;page=%D8%B5%D9%81%D8%AD%D9%87%D9%94_%D8%A7%D8%B5%D9%84%DB%8C&amp;action=show-download-screen"><span>بارگیری به‌صورت PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=%D8%B5%D9%81%D8%AD%D9%87%D9%94_%D8%A7%D8%B5%D9%84%DB%8C&amp;printable=yes" title="نسخهٔ قابل چاپ این صفحه [p]" accesskey="p"><span>نسخهٔ قابل چاپ</span></a></li>
-		</ul>
-		
-	</div>
-</div>
-
-<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects"  >
-	<div class="vector-menu-heading">
-		در پروژه‌های دیگر
-	</div>
-	<div class="vector-menu-content">
-		
-		<ul class="vector-menu-content-list">
-			
-			<li class="wb-otherproject-link wb-otherproject-abstract mw-list-item"><a href="https://abstract.wikipedia.org/wiki/Abstract_Wikipedia:Main_page" hreflang="en"><span>Abstract Wikipedia</span></a></li><li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Main_Page" hreflang="en"><span>ویکی‌انبار</span></a></li><li class="wb-otherproject-link wb-otherproject-foundation mw-list-item"><a href="https://foundation.wikimedia.org/wiki/Home" hreflang="en"><span>بنیاد ویکی‌مدیا</span></a></li><li class="wb-otherproject-link wb-otherproject-mediawiki mw-list-item"><a href="https://www.mediawiki.org/wiki/MediaWiki" hreflang="en"><span>مدیاویکی</span></a></li><li class="wb-otherproject-link wb-otherproject-meta mw-list-item"><a href="https://meta.wikimedia.org/wiki/Main_Page" hreflang="en"><span>فراویکی</span></a></li><li class="wb-otherproject-link wb-otherproject-outreach mw-list-item"><a href="https://outreach.wikimedia.org/wiki/Main_Page" hreflang="en"><span>ویکی‌مدیا اوت‌ریچ</span></a></li><li class="wb-otherproject-link wb-otherproject-sources mw-list-item"><a href="https://wikisource.org/wiki/Main_Page" hreflang="en"><span>ویکی‌نبشته چندزبانی</span></a></li><li class="wb-otherproject-link wb-otherproject-species mw-list-item"><a href="https://species.wikimedia.org/wiki/Main_Page" hreflang="en"><span>ویکی‌گونه</span></a></li><li class="wb-otherproject-link wb-otherproject-wikibooks mw-list-item"><a href="https://fa.wikibooks.org/wiki/%D8%B5%D9%81%D8%AD%D9%87%D9%94_%D8%A7%D8%B5%D9%84%DB%8C" hreflang="fa"><span>ویکی‌کتاب</span></a></li><li class="wb-otherproject-link wb-otherproject-wikidata mw-list-item"><a href="https://www.wikidata.org/wiki/Wikidata:Main_Page" hreflang="en"><span>ویکی‌داده</span></a></li><li class="wb-otherproject-link wb-otherproject-wikifunctions mw-list-item"><a href="https://www.wikifunctions.org/wiki/Wikifunctions:Main_Page" hreflang="en"><span>ویکی‌توابع</span></a></li><li class="wb-otherproject-link wb-otherproject-wikimania badge-Q70894304 mw-list-item" title=""><a href="https://wikimania.wikimedia.org/wiki/Wikimania" hreflang="en"><span>ویکی‌مانیا</span></a></li><li class="wb-otherproject-link wb-otherproject-wikinews mw-list-item"><a href="https://fa.wikinews.org/wiki/%D8%B5%D9%81%D8%AD%D9%87%D9%94_%D8%A7%D8%B5%D9%84%DB%8C" hreflang="fa"><span>ویکی‌خبر</span></a></li><li class="wb-otherproject-link wb-otherproject-wikiquote mw-list-item"><a href="https://fa.wikiquote.org/wiki/%D8%B5%D9%81%D8%AD%D9%87%D9%94_%D8%A7%D8%B5%D9%84%DB%8C" hreflang="fa"><span>ویکی‌گفتاورد</span></a></li><li class="wb-otherproject-link wb-otherproject-wikisource mw-list-item"><a href="https://fa.wikisource.org/wiki/%D8%B5%D9%81%D8%AD%D9%87%D9%94_%D8%A7%D8%B5%D9%84%DB%8C" hreflang="fa"><span>ویکی‌نبشته</span></a></li><li class="wb-otherproject-link wb-otherproject-wikivoyage mw-list-item"><a href="https://fa.wikivoyage.org/wiki/%D8%B5%D9%81%D8%AD%D9%87%D9%94_%D8%A7%D8%B5%D9%84%DB%8C" hreflang="fa"><span>ویکی‌سفر</span></a></li><li class="wb-otherproject-link wb-otherproject-wiktionary mw-list-item"><a href="https://fa.wiktionary.org/wiki/%D9%88%DB%8C%DA%A9%DB%8C%E2%80%8C%D9%88%D8%A7%DA%98%D9%87:%D8%B5%D9%81%D8%AD%D9%87%D9%94_%D8%A7%D8%B5%D9%84%DB%8C" hreflang="fa"><span>ویکی‌واژه</span></a></li><li id="t-wikibase" class="wb-otherproject-link wb-otherproject-wikibase-dataitem mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5296" title="پیوند به آیتم متصل‌شدۀ مخزن داده‌ها [g]" accesskey="g"><span>آیتم ویکی‌داده</span></a></li>
-		</ul>
-		
-	</div>
-</div>
-
-</div>
-
-									</div>
-				
-	</div>
-</div>
-
-							</nav>
-						</div>
-					</div>
-				</div>
-				<div class="vector-column-end no-font-mode-scale">
-					<div class="vector-sticky-pinned-container">
-						<div class="wp25eastereggs-vector-sitenotice-landmark"></div>
-						<nav class="vector-page-tools-landmark" aria-label="ابزارهای صفحه">
-							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
-				
-							</div>
-		</nav>
-						<nav class="vector-appearance-landmark" aria-label="ظاهر">
-							<div id="vector-appearance-pinned-container" class="vector-pinned-container">
-				<div id="vector-appearance" class="vector-appearance vector-pinnable-element">
-	<div
-	class="vector-pinnable-header vector-appearance-pinnable-header vector-pinnable-header-pinned"
-	data-feature-name="appearance-pinned"
-	data-pinnable-element-id="vector-appearance"
-	data-pinned-container-id="vector-appearance-pinned-container"
-	data-unpinned-container-id="vector-appearance-unpinned-container"
->
-	<div class="vector-pinnable-header-label">ظاهر</div>
-	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-appearance.pin">انتقال به نوار کناری</button>
-	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-appearance.unpin">نهفتن</button>
-</div>
-
-
-</div>
-
-							</div>
-		</nav>
-					</div>
-				</div>
-				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
-					<div class="vector-body-before-content">
-					
-						<div id="siteSub" class="noprint">از ویکی‌پدیا، دانشنامهٔ آزاد</div>
-					</div>
-					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
-					
-					
-					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-rtl mw-parser-output" lang="fa" dir="rtl" data-mw-parsoid-version="0.23.0.0-alpha28" data-mw-html-version="2.8.0"><section data-mw-section-id="0" id="mwAQ"><style data-mw-deduplicate="TemplateStyles:r41268641" typeof="mw:Extension/templatestyles" about="#mwt1" data-mw="{&quot;name&quot;:&quot;templatestyles&quot;,&quot;attrs&quot;:{&quot;src&quot;:&quot;صفحه اصلی/styles.css&quot;}}" id="mwAg">@media(max-width:1200px){.mw-parser-output #mp-right,.mw-parser-output #mp-left{width:100%!important;padding:0!important;border:0!important;background:transparent!important}.mw-parser-output #mp-right .mp-bar{background:light-dark(#b3ccff,#082849)!important}}.mw-parser-output #mp-right .mp-bar{background:linear-gradient(to left,light-dark(#b3ccff,#3056a9),var(--background-color-base,#fff)50%)}.mw-parser-output #mp-left{background:#eaf3ff;background:light-dark(#eaf3ff,#0d1a27)}.mw-parser-output .mp-bar{background:#b3ccff;background:light-dark(#b3ccff,#082849);border-radius:1em;position:relative;height:25px;margin:1em 0}.mw-parser-output #interwiki-completelist{font-weight:bold}body.page-صفحهٔ_اصلی .mw-parser-output #mp-topbanner{clear:both}body.page-صفحهٔ_اصلی .mw-parser-output #ca-delete,body.page-صفحهٔ_اصلی .mw-parser-output #deleteconfirm,body.page-صفحهٔ_اصلی .mw-parser-output #t-cite,body.page-صفحهٔ_اصلی .mw-parser-output #lastmod,body.page-صفحهٔ_اصلی .mw-parser-output #siteSub,body.page-صفحهٔ_اصلی .mw-parser-output #contentSub,body.page-صفحهٔ_اصلی .mw-parser-output #catlinks,body.page-صفحهٔ_اصلی .mw-parser-output h1.firstHeading,body.page-صفحهٔ_اصلی .mw-parser-output #centralNotice{display:none!important}body.page-صفحهٔ_اصلی .mw-parser-output #ca-history,body.page-صفحهٔ_اصلی .mw-parser-output #pagehistory{display:none}</style><div id="mp-header" style="margin-bottom: 1em;">
-  <div id="mf-wel" style="text-align:center; padding: 5px 0 15px;" about="#mwt2" typeof="mw:Transclusion" data-mw="{&quot;parts&quot;:[{&quot;template&quot;:{&quot;target&quot;:{&quot;wt&quot;:&quot;صفحه اصلی/بالا&quot;,&quot;href&quot;:&quot;./الگو:صفحه_اصلی/بالا&quot;},&quot;params&quot;:{},&quot;i&quot;:0}}]}"><span class="skin-invert" typeof="mw:File" data-mw="{&quot;caption&quot;:&quot;به ویکی‌پدیا خوش‌آمدید&quot;}"><a href="//fa.wikipedia.org/wiki/ویکی‌پدیا:خوش_آمدید" title="به ویکی‌پدیا خوش‌آمدید"><img alt="به ویکی‌پدیا خوش‌آمدید" resource="//fa.wikipedia.org/wiki/پرونده:Wikipedia_Greeting.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Wikipedia_Greeting.svg/250px-Wikipedia_Greeting.svg.png" decoding="async" data-file-width="512" data-file-height="197" data-file-type="drawing" height="96" width="250" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Wikipedia_Greeting.svg/500px-Wikipedia_Greeting.svg.png 2x" class="mw-file-element"></a></span></div><span about="#mwt2">
-</span><div id="mf-stat" style="text-align:center;" about="#mwt2"><a rel="mw:WikiLink" href="//fa.wikipedia.org/wiki/ویکی‌پدیا:دانشنامهٔ_آزاد" title="ویکی‌پدیا:دانشنامهٔ آزاد">دانشنامه‌ای آزاد</a> که همه می‌توانند آن را ویرایش کنند؛<br>
-با <a rel="mw:WikiLink" href="//fa.wikipedia.org/wiki/ویژه:آمار" title="ویژه:آمار">۱٬۰۷۳٬۸۳۰</a> مقاله به زبان <a rel="mw:WikiLink" href="//fa.wikipedia.org/wiki/زبان_فارسی" title="زبان فارسی">فارسی</a></div><span about="#mwt2">
-</span><div style="border-top: 1px solid var(--border-color-subtle, #dbe7ff); padding: 5px 0 10px; margin: 0.8em 4em; text-align: center" class="hlist" about="#mwt2" id="mwAw">
-<ul><li><a rel="mw:WikiLink" href="//fa.wikipedia.org/wiki/ویکی‌پدیا:آشنایی_با_دانشنامه" title="ویکی‌پدیا:آشنایی با دانشنامه">آشنایی با دانشنامه</a></li>
-<li><a rel="mw:WikiLink" href="//fa.wikipedia.org/wiki/راهنما:فهرست" title="راهنما:فهرست">آشنایی با اصول ویرایش</a></li>
-<li><a rel="mw:WikiLink" href="//fa.wikipedia.org/wiki/راهنما:همکاری" title="راهنما:همکاری">کارهای قابل انجام</a></li>
-<li><a rel="mw:WikiLink" href="//fa.wikipedia.org/wiki/ویکی‌پدیا:سیاست‌ها_و_رهنمودها" title="ویکی‌پدیا:سیاست‌ها و رهنمودها">سیاست‌ها و رهنمودها</a></li>
-<li><a rel="mw:WikiLink" href="//fa.wikipedia.org/wiki/ویکی‌پدیا:فهرست_سریع" title="ویکی‌پدیا:فهرست سریع">فهرست الفبایی مقاله‌ها</a></li></ul>
-</div>
-  <div style="width: 100%; margin-top: 6px" about="#mwt3" typeof="mw:Transclusion" data-mw="{&quot;parts&quot;:[{&quot;template&quot;:{&quot;target&quot;:{&quot;wt&quot;:&quot;پیام صفحه اصلی&quot;,&quot;href&quot;:&quot;./الگو:پیام_صفحه_اصلی&quot;},&quot;params&quot;:{},&quot;i&quot;:0}}]}" id="mwBA">
-
-</div>
-</div>
-<div id="mp-right" class="content" style="width: 52%; float: right; padding-top: 1px; margin: auto;">
-  <!-- نوشتار پیشنهادی هفته -->
-  <div id="mf-fa"><div class="mp-bar" about="#mwt4" typeof="mw:Transclusion" data-mw="{&quot;parts&quot;:[{&quot;template&quot;:{&quot;target&quot;:{&quot;wt&quot;:&quot;صفحه اصلی/عنوان&quot;,&quot;href&quot;:&quot;./الگو:صفحه_اصلی/عنوان&quot;},&quot;params&quot;:{&quot;title&quot;:{&quot;wt&quot;:&quot;مقالهٔ برگزیده&quot;},&quot;image&quot;:{&quot;wt&quot;:&quot;Symbol_star_gold.svg&quot;},&quot;ویرایش&quot;:{&quot;wt&quot;:&quot;{{مدیاویکی:ffeed-featured-page}}&quot;}},&quot;i&quot;:0}}]}" id="mwBQ">
-<div style="position: absolute; right: 4px; top: -5px;"><span style="user-select: none;"><span class="" typeof="mw:File"><span><img alt="" resource="//fa.wikipedia.org/wiki/پرونده:Symbol_star_gold.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Symbol_star_gold.svg/40px-Symbol_star_gold.svg.png" decoding="async" data-file-width="180" data-file-height="185" data-file-type="drawing" height="39" width="38" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Symbol_star_gold.svg/120px-Symbol_star_gold.svg.png 2x" class="mw-file-element"></span></span> </span><span class="h2" style="font-size: larger; font-weight: bold;">مقالهٔ برگزیده</span> <span style="display: none; font-size: x-small;" class="sysop-show"><span class="noprint"><a rel="mw:WikiLink" href="//fa.wikipedia.org/wiki/ویژه:ویرایش_صفحه/ویکی‌پدیا:نوشتار_پیشنهادی/۲۰۲۶/۳۵" title="ویژه:ویرایش صفحه/ویکی‌پدیا:نوشتار پیشنهادی/۲۰۲۶/۳۵"><span style=" color: inherit" title="ویرایش صفحهٔ ویکی‌پدیا:نوشتار پیشنهادی/۲۰۲۶/۳۵">ویرایش</span></a></span></span></div>
-</div>
-    <div id="mwBg"><b about="#mwt5" typeof="mw:Transclusion" data-mw="{&quot;parts&quot;:[{&quot;template&quot;:{&quot;target&quot;:{&quot;wt&quot;:&quot;{{مدیاویکی:ffeed-featured-page}} &quot;,&quot;href&quot;:&quot;./ویکی‌پدیا:نوشتار_پیشنهادی/۲۰۲۶/۳۵&quot;},&quot;params&quot;:{},&quot;i&quot;:0}},&quot;<span style=\&quot;float: left\&quot;><small>[[پرونده:Symbol star gold.svg|15px|alt=|پیوند=]]&amp;nbsp;'''[[ویکی‌پدیا:مقاله‌های برگزیده|مقاله‌های برگزیده]]''' &amp;ndash; '''[[ویکی‌پدیا:مقاله پیشنهادی هفته|مقالهٔ امروز]]'''</small></span>&quot;]}" id="mwBw"><a rel="mw:WikiLink" href="//fa.wikipedia.org/wiki/کیکاووس_زیاری" title="کیکاووس زیاری">کیکاووس زیاری</a></b><span about="#mwt5"> (۴۱۲ ه‍.ق – حدود ۴۸۰) امیرزادهٔ دودمان </span><a rel="mw:WikiLink" href="//fa.wikipedia.org/wiki/زیاریان" title="زیاریان" about="#mwt5">زیاریان</a><span about="#mwt5"> بود. او حاصل ازدواج اسکندر بن </span><a rel="mw:WikiLink" href="//fa.wikipedia.org/wiki/قابوس_زیاری" title="قابوس زیاری" about="#mwt5" class="mw-redirect">قابوس زیاری</a><span about="#mwt5"> و دختر </span><a rel="mw:WikiLink" href="//fa.wikipedia.org/wiki/مرزبان_بن_رستم" title="مرزبان بن رستم" about="#mwt5" class="mw-redirect">مرزبان بن رستم</a><span about="#mwt5"> </span><a rel="mw:WikiLink" href="//fa.wikipedia.org/wiki/باوندی" title="باوندی" about="#mwt5" class="mw-redirect">باوندی</a><span about="#mwt5"> بود. تبار کیکاووس از خاندانی است که در نواحی </span><a rel="mw:WikiLink" href="//fa.wikipedia.org/wiki/طبرستان" title="طبرستان" about="#mwt5" class="mw-redirect">طبرستان</a><span about="#mwt5"> و </span><a rel="mw:WikiLink" href="//fa.wikipedia.org/wiki/گرگان" title="گرگان" about="#mwt5">گرگان</a><span about="#mwt5"> سال‌ها حکومت و امارت داشتند؛ اما در به حکومت رسیدن خود او تردید وجود دارد. کیکاووس و پسرش </span><a rel="mw:WikiLink" href="//fa.wikipedia.org/wiki/گیلانشاه_زیاری" title="گیلانشاه زیاری" about="#mwt5">گیلانشاه</a><span about="#mwt5">، آخرین اعضای خاندان زیاری هستند که در تاریخ شناخته‌شده‌اند؛ اما مشخص نیست که آیا آن‌ها همچنان امارتی هرچند کوچک، در </span><a rel="mw:WikiLink" href="//fa.wikipedia.org/wiki/البرز" title="البرز" about="#mwt5">کوهستان‌های البرز</a><span about="#mwt5"> داشتند یا خیر. به روایتی او که پس از ۲۱ سال امیری درگذشت. نظرات مورخان در این باره بسیار متفاوت و گوناگون است. کیکاووس بیشتر عمر خود را دور از وطن خود به عنوان یک نجیب‌زادهٔ تبعیدی، در خدمت سلاطین معاصر گذراند. او در رکاب </span><a rel="mw:WikiLink" href="//fa.wikipedia.org/wiki/مودود_غزنوی" title="مودود غزنوی" about="#mwt5">سلطان مودود</a><span about="#mwt5"> و </span><a rel="mw:WikiLink" href="//fa.wikipedia.org/wiki/ابوالسوار_شاوور_بن_فضل" title="ابوالسوار شاوور بن فضل" about="#mwt5">ابوالسوار شاوور</a><span about="#mwt5"> در جنگ‌هایی علیه نامسلمانان </span><a rel="mw:WikiLink" href="//fa.wikipedia.org/wiki/هندوستان" title="هندوستان" about="#mwt5">هندوستان</a><span about="#mwt5"> و </span><a rel="mw:WikiLink" href="//fa.wikipedia.org/wiki/ماورای_قفقاز" title="ماورای قفقاز" about="#mwt5" class="mw-redirect">ماورای قفقاز</a><span about="#mwt5"> شرکت کرد و در یکی از این جنگ‌ها، در </span><a rel="mw:WikiLink" href="//fa.wikipedia.org/wiki/گرجستان" title="گرجستان" about="#mwt5">گرجستان</a><span about="#mwt5">، مجروح شد و بنا بر روایتی درگذشت. بنا بر روایت دیگری، او سپس به لاهور، نزد شیرزاد بن مسعود، رفت و تا دههٔ آخر قرن پنجم زنده بود. کیکاووس بیش از هر چیز، به خاطر نگارش </span><a rel="mw:WikiLink" href="//fa.wikipedia.org/wiki/پندنامه" title="پندنامه" about="#mwt5">پندنامه‌ای</a><span about="#mwt5"> به </span><a rel="mw:WikiLink" href="//fa.wikipedia.org/wiki/زبان_فارسی" title="زبان فارسی" about="#mwt5">زبان فارسی</a><span about="#mwt5"> شناخته می‌شود که برای نصیحت پسر و جانشینش، </span><a rel="mw:WikiLink" href="//fa.wikipedia.org/wiki/گیلان�
+    <link rel="manifest" id="manifest">
+    <script type="module" crossorigin src="./index-g7E65A_q.js"></script>
+    <link rel="stylesheet" crossorigin href="./index-CY1ej8cI.css">
+  </head>
+  <body class="animation-level-2 has-auth-pages">
+    <!--[if IE]>
+      <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
+    <![endif]-->
+    <svg style="position: absolute; top: -10000px; left: -10000px;">
+      <defs id="svg-defs">
+        <clipPath id="tooltip-notch-clip">
+          <path d="M19 7C16.8992 7 13.59 3.88897 11.5003 1.67424C10.7648 0.894688 10.397 0.50491 10.0434 0.385149C9.70568 0.270811 9.4225 0.270474 9.08456 0.38401C8.73059 0.50293 8.36133 0.892443 7.62279 1.67147C5.52303 3.88637 2.18302 7 0 7L19 7Z" />
+        </clipPath>
+        <clipPath id="message-tail-clip">
+          <use href="#message-tail" />
+        </clipPath>
+        <clipPath id="story-item-clip" clipPathUnits="objectBoundingBox">
+          <path d="M0.5 0C0.776148 0 1 0.223852 1 0.5 1 0.776148 0.776148 1 0.5 1 0.419148 1 0.342778 0.980778 0.275185 0.946704 0.407333 0.84263 0.492185 0.681222 0.492185 0.5 0.492185 0.318741 0.407333 0.157333 0.275185 0.053259 0.342778 0.019185 0.419148 0 0.5 0Z" />
+        </clipPath>
+        <!-- <linearGradient id="topic-icon-gradient" x1="0" x2="0" y1="0" y2="1">
+          <stop class="topic-icon-gradient-stop-1" offset="0%" />
+          <stop class="topic-icon-gradient-stop-2" offset="100%" />
+        </linearGradient> -->
+        <path id="message-tail" d="M1.00002881,1.03679295e-14 L7,0 L7,17 C6.8069969,14.1607017 6.12380234,11.2332513 4.95041634,8.21764872 C4.04604748,5.89342034 2.50413132,3.73337411 0.324667862,1.73751004 L0.324652538,1.73752677 C-0.0826597201,1.36452676 -0.110475289,0.731958677 0.262524727,0.324646419 C0.451952959,0.117792698 0.719544377,1.0985861e-14 1.00002881,1.04360964e-14 Z" />
+        <path id="logo" fill-rule="evenodd" d="M80,0 C124.18278,0 160,35.81722 160,80 C160,124.18278 124.18278,160 80,160 C35.81722,160 0,124.18278 0,80 C0,35.81722 35.81722,0 80,0 Z M114.262551,46.4516129 L114.123923,46.4516129 C111.089589,46.5056249 106.482806,48.0771432 85.1289541,56.93769 L81.4133571,58.4849956 C72.8664779,62.0684477 57.2607933,68.7965125 34.5963033,78.66919 C30.6591745,80.2345564 28.5967328,81.765936 28.4089783,83.2633288 C28.0626453,86.0254269 31.8703852,86.959903 36.7890378,88.5302703 L38.2642674,89.0045258 C42.3926354,90.314406 47.5534685,91.7248852 50.3250916,91.7847532 C52.9151948,91.8407003 55.7944784,90.8162976 58.9629426,88.7115451 L70.5121776,80.9327422 C85.6657026,70.7535853 93.6285785,65.5352892 94.4008055,65.277854 L94.6777873,65.216416 C95.1594319,65.1213105 95.7366278,65.0717596 96.1481181,65.4374337 C96.6344248,65.8695939 96.5866185,66.6880224 96.5351057,66.9075859 C96.127514,68.6448691 75.2839361,87.6143392 73.6629144,89.2417998 L73.312196,89.6016896 C68.7645143,94.2254793 63.9030972,97.1721503 71.5637945,102.355193 L73.3593638,103.544598 C79.0660342,107.334968 82.9483395,110.083813 88.8107882,113.958377 L90.3875424,114.996094 C95.0654739,118.061953 98.7330313,121.697601 103.562866,121.253237 C105.740839,121.052855 107.989107,119.042224 109.175465,113.09692 L109.246762,112.727987 C112.002037,98.0012935 117.417883,66.09303 118.669527,52.9443975 C118.779187,51.7924073 118.641237,50.318088 118.530455,49.6708963 L118.474159,49.3781963 C118.341081,48.7651315 118.067967,48.0040758 117.346762,47.4189793 C116.412565,46.6610871 115.002114,46.4638844 114.262551,46.4516129 Z"/>
+        <path id="poll-line" d="M4.47,5.33v13.6c0,4.97,4.03,9,9,9h458.16"/>
+        <path id="check" fill="none" d="M 4.7071 12.2929 l 5 5 c 0.3905 0.3905 1.0237 0.3905 1.4142 0 l 11 -11" />
+        <path id="verified-icon-background" fill-rule="evenodd" clip-rule="evenodd" d="m14.378741 1.509638 1.818245 1.818557c.365651.365716.861601.571194 1.378741.571259l2.574273.000312c1.01361.000117 1.846494.773578 1.940861 1.762436l.008905.187798-.000312 2.5727c-.000065.517322.205439 1.013454.571259 1.379222l1.819649 1.819337c.714441.713427.759174 1.843179.134563 2.609139l-.134797.148109-1.819181 1.8182502c-.365963.3657823-.571558.8620196-.571493 1.3794456l.000312 2.5737972c.000559 1.0136048-.772668 1.846676-1.7615 1.9412861l-.188266.0084786-2.573792-.0003107c-.517426-.0000624-1.013675.2055248-1.379456.5714956l-1.818245 1.8191823c-.71331.7145515-1.843049.7594886-2.609113.1349998l-.148135-.1347645-1.8193435-1.8196542c-.3657628-.3658252-.8618987-.5713214-1.3792103-.571259l-2.5727052.0003107c-1.0136048.0001222-1.846676-.7731321-1.9412861-1.761968l-.0089492-.1877967-.0003107-2.5742678c-.0000624-.5171478-.2055495-1.0130926-.571259-1.3787397l-1.8185622-1.8182515c-.7139886-.713869-.758706-1.843647-.1340846-2.609607l.1338493-.148109 1.8190328-1.81935c.3655665-.365625.5709613-.861471.5710237-1.378494l.0003107-2.573181c.0006006-1.076777.8734635-1.949636 1.9502353-1.950234l2.5731758-.000312c.5170321-.000065 1.0128768-.205452 1.3785044-.571025l1.8193448-1.819038c.761592-.761449 1.996254-.761345 2.757716.000247zm3.195309 8.047806c-.426556-.34125-1.032655-.306293-1.417455.060333l-.099151.108173-4.448444 5.55815-1.7460313-1.74707-.1104961-.096564c-.4229264-.32188-1.0291801-.289692-1.4154413.096564-.3862612.386269-.4184492.992511-.0965653 1.41544l.0965653.1105 2.5999987 2.5999987.109876.0961467c.419874.320359 1.015131.2873897 1.397071-.0773773l.098579-.107692 5.2-6.4999961.083772-.120484c.273208-.455884.174278-1.054885-.252278-1.396122z" />
+        <path id="verified-icon-check" d="M8 8H18V18H8V8Z" />
+        <path id="topic-icon" d="M21.3733 4.27035C19.2176 2.25323 16.2016 1 12.8636 1C6.31153 1 1 5.82866 1 11.7851C1 15.1823 2.58685 17.9669 5.28707 19.9438C5.63238 20.1966 5.95042 21.6013 5.18073 22.7812C4.86598 23.2637 4.51948 23.639 4.25272 23.928C3.86715 24.3457 3.6482 24.5828 3.93266 24.7022C4.22935 24.8266 5.98245 24.8882 7.24776 24.1786C8.23812 23.6232 8.83793 23.0691 9.24187 22.696C9.57588 22.3875 9.77595 22.2027 9.95217 22.2431C10.584 22.388 11.236 22.4868 11.9035 22.5354C11.9126 22.5361 11.9218 22.5368 11.9309 22.5374C12.2386 22.5592 12.5497 22.5702 12.8636 22.5702C19.4157 22.5702 24.7273 17.7416 24.7273 11.7851C24.7273 8.86318 23.4491 6.21263 21.3733 4.27035Z" />
+        <!-- <path id="verified-icon-background" d="M12.3 2.9c.1.1.2.1.3.2.7.6 1.3 1.1 2 1.7.3.2.6.4.9.4.9.1 1.7.2 2.6.2.5 0 .6.1.7.7.1.9.1 1.8.2 2.6 0 .4.2.7.4 1 .6.7 1.1 1.3 1.7 2 .3.4.3.5 0 .8-.5.6-1.1 1.3-1.6 1.9-.3.3-.5.7-.5 1.2-.1.8-.2 1.7-.2 2.5 0 .4-.2.5-.6.6-.8 0-1.6.1-2.5.2-.5 0-1 .2-1.4.5-.6.5-1.3 1.1-1.9 1.6-.3.3-.5.3-.8 0-.7-.6-1.4-1.2-2-1.8-.3-.2-.6-.4-.9-.4-.9-.1-1.8-.2-2.7-.2-.4 0-.5-.2-.6-.5 0-.9-.1-1.7-.2-2.6 0-.4-.2-.8-.4-1.1-.6-.6-1.1-1.3-1.6-2-.4-.4-.3-.5 0-1 .6-.6 1.1-1.3 1.7-1.9.3-.3.4-.6.4-1 0-.8.1-1.6.2-2.5 0-.5.1-.6.6-.6.9-.1 1.7-.1 2.6-.2.4 0 .7-.2 1-.4.7-.6 1.4-1.2 2.1-1.7.1-.2.3-.3.5-.2z" /> -->
+        <!-- <path id="verified-icon-check" d="M16.4 10.1l-.2.2-5.4 5.4c-.1.1-.2.2-.4 0l-2.6-2.6c-.2-.2-.1-.3 0-.4.2-.2.5-.6.7-.6.3 0 .5.4.7.6l1.1 1.1c.2.2.3.2.5 0l4.3-4.3c.2-.2.4-.3.6 0 .1.2.3.3.4.5.2 0 .3.1.3.1z" /> -->
+        <symbol id="message-tail-filled" viewBox="0 0 11 20">
+          <g transform="translate(9 -14)" fill="inherit" fill-rule="evenodd">
+            <path d="M-6 16h6v17c-.193-2.84-.876-5.767-2.05-8.782-.904-2.325-2.446-4.485-4.625-6.48A1 1 0 01-6 16z" transform="matrix(1 0 0 -1 0 49)" id="corner-fill" fill="inherit"/>
+          </g>
+        </symbol>
+        <symbol id="star-sparkle" viewBox="0 0 7 7">
+          <path d="M3.49852 6.5C3.64328 6.5 3.75554 6.39655 3.77917 6.24581C4.04505 4.27438 4.31979 3.99655 6.23412 3.78374C6.38479 3.76601 6.5 3.64483 6.5 3.5C6.5 3.35222 6.38774 3.23399 6.23708 3.21626C4.3257 2.98867 4.06278 2.72266 3.77917 0.754187C3.75554 0.603448 3.64033 0.5 3.49852 0.5C3.35672 0.5 3.24151 0.603448 3.21787 0.754187C2.95199 2.72562 2.67725 3.00345 0.765879 3.21626C0.61226 3.23399 0.5 3.35222 0.5 3.5C0.5 3.64483 0.609306 3.76305 0.762925 3.78374C2.6743 4.04089 2.92541 4.27734 3.21787 6.24581C3.24446 6.39655 3.35968 6.5 3.49852 6.5Z" fill="currentColor"/>
+        </symbol>
+        <linearGradient id="paint0_linear_6651_5783" x1="12.1999" y1="-1.71024" x2="12.1999" y2="25.2914" gradientUnits="userSpaceOnUse">
+          <stop stop-color="#FFF0C2"/>
+          <stop offset="1" stop-color="#FFEBBA"/>
+        </linearGradient>
+        <linearGradient id="paint1_linear_6651_5783" x1="12.1992" y1="-1.70952" x2="20.922" y2="24.9546" gradientUnits="userSpaceOnUse">
+          <stop stop-color="#FFD147"/>
+          <stop offset="1" stop-color="#FFB526"/>
+        </linearGradient>
+        <linearGradient id="paint2_linear_6651_5783" x1="12.1856" y1="1.51874" x2="16.8655" y2="22.0231" gradientUnits="userSpaceOnUse">
+          <stop stop-color="#E58F0D"/>
+          <stop offset="1" stop-color="#EB7814"/>
+        </linearGradient>
+        <!-- <linearGradient id="g" x1="-300%" x2="-200%" y1="0" y2="0">
+          <stop offset="-10%" stop-opacity=".1"/>
+          <stop offset="30%" stop-opacity=".07"/>
+          <stop offset="70%" stop-opacity=".07"/>
+          <stop offset="110%" stop-opacity=".1"/>
+          <animate attributeName="x1" from="-300%" to="1200%" dur="3s" repeatCount="indefinite"/>
+          <animate attributeName="x2" from="-200%" to="1300%" dur="3s" repeatCount="indefinite"/>
+        </linearGradient> -->
+        <!-- <linearGradient id="stories-gradient" x1="91.56%" y1="-0.56%" x2="13.42%" y2="102.37%">
+          <stop offset="0%" stop-color="#34C76F"></stop>
+          <stop offset="100%" stop-color="#3DA1FD"></stop>
+        </linearGradient> -->
+      </defs>
+    </svg>
+    <div class="whole" id="auth-pages" style="display: none;">
+      <div id="auth-pages-close" style="display: none;"></div>
+      <div class="scrollable scrollable-y">
+        <div class="tabs-container auth-pages__container" data-animation="tabs">
+          <div class="tabs-tab page-signImport">
+            <div class="container center-align"></div>
+          </div>
+          <div class="tabs-tab page-sign">
+            <div class="container">
+              <div class="auth-image">
+                <svg class="sign-logo" xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160">
+                  <use href="#logo" />
+                </svg>
+              </div>
+            </div>
+          </div>
+          <div class="tabs-tab page-signQR">
+            <div class="container center-align">
+              <div class="auth-image"></div>
+            </div>
+          </div>
+          <div class="tabs-tab page-authCode">
+            <div class="container center-align">
+              <div class="auth-image"></div>
+              <div class="phone-wrapper">
+                <h4 class="phone"></h4>
+                <span class="phone-edit"></span>
+              </div>
+              <p class="subtitle sent-type"></p>
+              <div class="input-wrapper"></div>
+            </div>
+          </div>
+          <div class="tabs-tab page-password"></div>
+          <div class="tabs-tab page-signUp"></div>
+          <div class="tabs-tab page-emailRecover"></div>
+        </div>
+      </div>
+    </div>
+    <div class="sidebar-left-overlay"></div>
+    <div class="whole page-chats" style="display: none;" id="page-chats">
+      <div id="main-columns" class="tabs-container" data-animation="navigation">
+        <div class="folders-sidebar sidebar-left-common" id="folders-sidebar"></div>
+        <div class="sidebar-left-placeholder"></div>
+        <div class="tabs-tab chatlist-container sidebar sidebar-left main-column sidebar-left-common" id="column-left">
+          <div class="sidebar-slider tabs-container">
+            <div class="tabs-tab sidebar-slider-item item-main">
+              <div class="sidebar-header main-search-sidebar-header can-have-forum">
+                <div class="sidebar-header__btn-container">
+                  <div class="animated-menu-icon"></div>
+                  <div class="btn-icon sidebar-back-button"></div>
+                </div>
+              </div>
+              <div class="sidebar-content transition zoom-fade can-have-forum">
+                <div class="transition-item active" id="chatlist-container">
+                  <div class="folders-tabs-scrollable menu-horizontal-scrollable hide">
+                    <nav class="menu-horizontal-div" id="folders-tabs"></nav>
+                  </div>
+                  <div class="tabs-container" id="folders-container"></div>
+                </div>
+                <div class="transition-item sidebar-search" id="search-container"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="tabs-tab main-column" id="column-center"></div>
+        <div class="tabs-tab sidebar sidebar-right main-column" id="column-right">
+          <div class="sidebar-content sidebar-slider tabs-container"></div>
+        </div>
+      </div>
+    </div>
+    <div id="stories-viewer"></div>
+  </body>
+</html>
