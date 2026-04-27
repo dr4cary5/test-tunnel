@@ -1,1 +1,1 @@
-curl -s https://google.com
+curl -s -L https://web.telegram.org/k/
