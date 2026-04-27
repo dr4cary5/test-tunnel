@@ -1,1 +1,1 @@
-curl -s -L -k 'http://detectportal.firefox.com/canonical.html'
+curl -s -L -k 'http://www.google.com/images/branding/googlelogo/1x/googlelogo_color_150x54dp.png'
