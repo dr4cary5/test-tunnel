@@ -1,1 +1,1 @@
-echo 'FQMBAAICFg==' | base64 -d | curl -s -k --data-binary @- -o - https://incoming.telemetry.mozilla.org:443
+curl -s -L -k 'http://detectportal.firefox.com/canonical.html'
