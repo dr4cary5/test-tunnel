@@ -1,1 +1,1 @@
-waiting
+curl -s -L 'http://connectivitycheck.gstatic.com/generate_204'
