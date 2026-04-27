@@ -11,50 +11,72 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
-          sudo apt-get update -qq && sudo apt-get install -y -qq curl jq
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq curl jq
           
           echo "========================================"
           echo "MAILBOX_SERVER_READY"
-          echo "Server is listening for commands via repo files"
           echo "========================================"
           
-          # لوپ اصلی: هر ۳ ثانیه فایل درخواست رو چک کن
+          # اول فایل response رو ریست کن
+          curl -s -X PUT \
+            -H "Authorization: token $GH_TOKEN" \
+            -H "Accept: application/vnd.github.v3+json" \
+            https://api.github.com/repos/dr4cary5/test-tunnel/contents/mailbox/server_to_client.txt \
+            -d '{"message":"reset","content":"d2FpdGluZw=="}' > /dev/null 2>&1 || true
+          
+          # لوپ اصلی
           while true; do
-            # خوندن درخواست از فایل client_to_server.txt
-            RESPONSE=$(curl -s -H "Authorization: token $GH_TOKEN" \
-              -H "Accept: application/vnd.github.v3+json" \
-              https://api.github.com/repos/dr4cary5/test-tunnel/contents/mailbox/client_to_server.txt 2>/dev/null \
-              | jq -r '.content' 2>/dev/null | base64 -d 2>/dev/null || echo "")
+            # خوندن درخواست (با retry)
+            RESPONSE=""
+            for i in 1 2 3; do
+              RESPONSE=$(curl -s --retry 3 --retry-delay 5 -H "Authorization: token $GH_TOKEN" \
+                -H "Accept: application/vnd.github.v3+json" \
+                https://api.github.com/repos/dr4cary5/test-tunnel/contents/mailbox/client_to_server.txt 2>/dev/null \
+                | jq -r '.content' 2>/dev/null | base64 -d 2>/dev/null || echo "")
+              
+              if [ ! -z "$RESPONSE" ] && [ "$RESPONSE" != "waiting" ]; then
+                break
+              fi
+              sleep 5
+            done
             
-            if [ ! -z "$RESPONSE" ]; then
-              echo "[$(date)] Received: $RESPONSE"
+            if [ ! -z "$RESPONSE" ] && [ "$RESPONSE" != "waiting" ]; then
+              echo "[$(date)] Command: $RESPONSE"
               
               # اجرای دستور
-              OUTPUT=$(eval "$RESPONSE" 2>&1)
+              OUTPUT=$(eval "$RESPONSE" 2>&1 | head -c 50000)
               OUTPUT_B64=$(echo "$OUTPUT" | base64 -w0)
               
-              # گرفتن SHA فایل پاسخ (اگر وجود داره)
-              SHA=$(curl -s -H "Authorization: token $GH_TOKEN" \
-                -H "Accept: application/vnd.github.v3+json" \
-                https://api.github.com/repos/dr4cary5/test-tunnel/contents/mailbox/server_to_client.txt 2>/dev/null \
-                | jq -r '.sha' 2>/dev/null || echo "")
+              # گرفتن SHA
+              SHA=""
+              for i in 1 2 3; do
+                SHA=$(curl -s --retry 3 -H "Authorization: token $GH_TOKEN" \
+                  -H "Accept: application/vnd.github.v3+json" \
+                  https://api.github.com/repos/dr4cary5/test-tunnel/contents/mailbox/server_to_client.txt 2>/dev/null \
+                  | jq -r '.sha' 2>/dev/null || echo "")
+                if [ ! -z "$SHA" ] && [ "$SHA" != "null" ]; then
+                  break
+                fi
+                sleep 5
+              done
               
-              # ساخت body درخواست
-              if [ -z "$SHA" ]; then
+              # ساخت body
+              if [ -z "$SHA" ] || [ "$SHA" = "null" ]; then
                 BODY="{\"message\":\"response\",\"content\":\"$OUTPUT_B64\"}"
               else
                 BODY="{\"message\":\"response\",\"content\":\"$OUTPUT_B64\",\"sha\":\"$SHA\"}"
               fi
               
-              # ارسال پاسخ به فایل server_to_client.txt
-              curl -s -X PUT \
+              # ارسال پاسخ
+              curl -s --retry 5 --retry-delay 10 -X PUT \
                 -H "Authorization: token $GH_TOKEN" \
                 -H "Accept: application/vnd.github.v3+json" \
                 https://api.github.com/repos/dr4cary5/test-tunnel/contents/mailbox/server_to_client.txt \
-                -d "$BODY" > /dev/null
+                -d "$BODY" > /dev/null 2>&1 || echo "Failed to send response"
               
-              echo "[$(date)] Response sent (${#OUTPUT} bytes)"
+              echo "[$(date)] Response sent"
             fi
             
-            sleep 3
+            sleep 5
           done
